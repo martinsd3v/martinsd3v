@@ -32,10 +32,6 @@ Graduado em analise e desenvolvimento de sistemas (2013), pós graduado em desen
 ![](https://img.shields.io/badge/Code-Microservices-informational?style=flat&color=2dadd8)
 ![](https://img.shields.io/badge/DevOps-CD_CI-informational?style=flat&color=2dadd8)
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=martinsd3v&label=Profile%20views&color=2dadd8&style=flat" alt="martinsd3v" /> 
-</p>
-
 - 🚀 I’m currently working on [**Consultbras Risk Management**](https://consultebras.com.br)
 
 - 📫 How to reach me **martinsd3v@gmail.com**
