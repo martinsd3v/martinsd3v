@@ -25,12 +25,12 @@ Graduado em analise e desenvolvimento de sistemas (2013), pós graduado em desen
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=fa9710)
 
 ## Other Skills
-![](https://img.shields.io/badge/Code-Software_development-informational?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Code-Software_Engineering-informational?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Code-BigData-informational?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Code-Data_Mining-informational?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/Code-Microservices-informational?style=for-the-badge&color=2dadd8)
-![](https://img.shields.io/badge/DevOps-CD_CI-informational?style=for-the-badge&color=2dadd8)
+![](https://img.shields.io/badge/Software_development-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/Software_Engineering-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/BigData-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/Data_Mining-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/Microservices-Make?style=for-the-badge&color=333)
+![](https://img.shields.io/badge/DevOps-CD_CI-Make?style=for-the-badge&color=333)
 
 - 🚀 I’m currently working on [**Consultbras Risk Management**](https://consultebras.com.br)
 
@@ -38,9 +38,9 @@ Graduado em analise e desenvolvimento de sistemas (2013), pós graduado em desen
 
 <p align="center">
 <a href="https://linkedin.com/in/martinsd3v" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&color=2666c2"/>
+    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&color=2666c2" alt="martinsd3v" height="30" width="40" />
 </a>
 <a href="https://instagram.com/martinsd3v" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-Make?style=for-the-badge&logo=instagram&color=333"/>
+    <img align="center" src="https://img.shields.io/badge/Instagram-Make?style=for-the-badge&logo=instagram&color=333" />
 </a>
 </p>
