@@ -38,7 +38,7 @@ Graduado em analise e desenvolvimento de sistemas (2013), pós graduado em desen
 
 <p align="center">
 <a href="https://linkedin.com/in/martinsd3v" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&color=2666c2" alt="martinsd3v" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Linkedin-Make?style=for-the-badge&logo=linkedin&color=2666c2" alt="martinsd3v"/>
 </a>
 <a href="https://instagram.com/martinsd3v" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-Make?style=for-the-badge&logo=instagram&color=333" />
